@@ -24,8 +24,8 @@ Here is the [presentation](https://github.com/lavishsaluja/Safemaps/blob/master/
 
 
 #### Team
-<a href = "https://www.linkedin.com/in/lavishsaluja/">Lavish Saluja</a>\
 Rachit Agrawal
+<a href = "https://www.linkedin.com/in/lavishsaluja/">Lavish Saluja</a>\
 
 #### License
 Copyright (c) 2018 <a href="https://github.com/lavishsaluja/Safemaps#team">Safemaps Team</a>
